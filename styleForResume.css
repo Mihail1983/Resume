@@ -1,0 +1,54 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+
+body{
+    font-family: Noto Sans,  Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.card{
+    
+   border-radius: 20px;
+   padding: 10px;
+   height : 150px;
+   width : 350px;
+   
+}
+
+.staj{
+    background-color: beige;
+    border: 3px solid yellowgreen;
+}
+.hobby{
+    background-color : rgb(153, 151, 197);
+    border: 3px solid rgb(242, 181, 15);
+}
+.socsety{
+    background-color: rgb(152, 197, 197);
+    border: 3px solid rgb(99, 50, 205);
+}
+div{
+   margin: 10px;
+}
+button{
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 355px;
+}
+img{
+      border: 3px solid grey
+}
+
+textarea{
+    
+    border: 3px solid yellowgreen;
+}
+header h1{
+    color: gray;
+}
+header p {
+    font-style: italic;
+    color: grey;
+}
+
+
